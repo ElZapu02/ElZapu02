@@ -17,5 +17,5 @@
 
 ### Sobre mi:
 
-- 🌴 Discord de [MarbellaRP](https://discord.gg/marbellarp)]
+- 🌴 Trabajando en [MarbellaRP](https://discord.gg/marbellarp)
 - 📥 Contacto: ! Zapu#2002
