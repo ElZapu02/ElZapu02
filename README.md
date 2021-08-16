@@ -15,7 +15,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### Sobre mi:
+### 💎 Sobre mi:
 
 - 🌴 Trabajando en [MarbellaRP](https://discord.gg/marbellarp)
 - 📥 Contacto: ! Zapu#2002
