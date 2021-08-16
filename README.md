@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/h¡banner1.png)](https://www.marbellarp.es/)
+[![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/banner1.png)](https://www.marbellarp.es/)
 
 ### Programming Languages
 
