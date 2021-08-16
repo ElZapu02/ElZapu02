@@ -1,32 +1,28 @@
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/apolo.sys/count.svg" />  
-</p>
+[![Header](https://raw.githubusercontent.com/visibait/visibait/master/videoreadme.gif)](https://www.visibait.com/)
 
-# Hey, me llamo Cristian. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Programming Languages
 
+[![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)](https://github.com/visibait?tab=repositories&q=&type=&language=lua)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/visibait?tab=repositories&q=&type=&language=javascript)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-- 📭 Discord: Apolo#0430
+### Technologies
 
-## :zap: Tecnologías
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=FF9900)
+![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![LUA](https://img.shields.io/badge/-Lua-blue?style=flat-square&logo=lua)
-![Java](https://img.shields.io/badge/-Java-yellow?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-## 📊Mis estadísticas
+### Proyectos/Contribuciones
 
 
-<p>  
- 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apolo-sys&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>  
+### FiveM
 
-<img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-stats.vercel.app/api/wakatime?username=apolosys&custom_title=Actividad%20de%20Apolo%20 (7 dias)"/>
-<img align="center" alt="GitHub Stats apolo-sys" src="https://github-readme-streak-stats.herokuapp.com/?user=apolo-sys&%22%20alt=%22apolo-sys%22"/>
-</p>
+- 🌴 Discord de MarbellaRP: https://discord.gg/marbellarp
+- 📭 Discord: ! Zapu#2002
+
+<a href="https://www.visibait.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=visibait&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=visibait&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
