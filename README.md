@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/banner1.png)](https://www.marbellarp.es/)
 
-### Programming Languages
+### ⚡ Lenguajes
 
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 
-### Technologies
+### 💻 Tecnologias
 
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
