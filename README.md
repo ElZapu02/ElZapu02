@@ -1,5 +1,13 @@
 [![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/banner1.png)](https://www.marbellarp.es/)
 
+### 🍒 ¿Quien soy?
+
+- 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
+- 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
+- 💻 Trabajando en [WhitePVP](https://discord.gg/9mSRMJV5RS)
+- 📥 Contacto: ! Zapu#2002
+
+
 ### ⚡ Lenguajes
 
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
@@ -15,9 +23,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### 🍒 ¿Quien soy?
 
-- 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
-- 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
-- 💻 Trabajando en [Nuevos Proyectos](https://discord.gg/jMZGRy7nYa)
-- 📥 Contacto: ! Zapu#2002
