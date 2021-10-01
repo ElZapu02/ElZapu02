@@ -12,7 +12,7 @@
 ### 💻 Tecnologias
 
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
 ### 🍒 Sobre mi
