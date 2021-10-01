@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/banner1.png)](https://www.marbellarp.es/)
 
-### 🍒 ¿Quien soy?
+### ⭐️ ¿Quien soy?
 
 - 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
 - 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
