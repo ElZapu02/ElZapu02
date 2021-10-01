@@ -2,8 +2,7 @@
 
 ### ⭐️ ¿Quien soy?
 
-- 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
-- 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
+- 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp) & [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
 - 📥 Contacto: ! Zapu#2002
 
 
