@@ -4,7 +4,6 @@
 
 - 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
 - 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
-- 💻 Trabajando en [WhitePVP](https://discord.gg/9mSRMJV5RS)
 - 📥 Contacto: ! Zapu#2002
 
 
