@@ -15,9 +15,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![TCP/UDP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### 🍒 Sobre mi
+### 🍒 ¿Quien soy?
 
 - 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp)
-- 🌍 Fundador de [WhiteCommunity](https://discord.gg/9mSRMJV5RS)
-- 💻 Trabajando en [WhiteServers](https://discord.gg/jMZGRy7nYa)
+- 🌍 Fundador de [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
+- 💻 Trabajando en [Nuevos Proyectos](https://discord.gg/jMZGRy7nYa)
 - 📥 Contacto: ! Zapu#2002
