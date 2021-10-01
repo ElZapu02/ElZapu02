@@ -1,12 +1,14 @@
 [![Header](https://raw.githubusercontent.com/ElZapu02/ElZapu02/master/banner1.png)](https://www.marbellarp.es/)
 
-### ⭐️ ¿Quien soy?
+### 💣 About me
 
-- 🌴 Fundador de [MarbellaRP](https://discord.gg/marbellarp) & [WhiteLeaks](https://discord.gg/9mSRMJV5RS)
-- 📥 Contacto: ! Zapu#2002
+- 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp) & [WhiteLeaks](https://discord.gg/9mSRMJV5RS).
+- 💻 LUA Programmer.
+- 📊 17 years old, learning.
+- 📥 Contact: ! Zapu#2002.
 
 
-### ⚡ Lenguajes
+### ⚡ Languages
 
 ![LUA](https://img.shields.io/badge/-Lua-000?&logo=lua&logoColor=2C2D72)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
@@ -15,7 +17,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 
-### 💻 Tecnologias
+### 💻 Technologies
 
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=windows&logoColor=0052CC)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
