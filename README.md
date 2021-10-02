@@ -2,7 +2,7 @@
 
 ### 💣 About me
 
-- 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp) & [WhiteLeaks](https://discord.gg/9mSRMJV5RS).
+- 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp) & [WhiteLeaks](https://discord.gg/wZ8aRVNXCY). 
 - 💻 LUA Programmer.
 - 📊 17 years old, learning.
 - 📥 Contact: ! Zapu#2002.
