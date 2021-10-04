@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/yqlKvFE.jpg)](https://www.marbellarp.es/)
+[![Header](https://i.imgur.com/e3bZzqv.png)](https://www.marbellarp.es/)
 
 ### 💣 About me
 
