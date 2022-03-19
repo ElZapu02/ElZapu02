@@ -5,6 +5,7 @@
 - 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp). 
 - 💻 LUA Programmer.
 - 📊 17 years old, learning.
+- 🌍 My [CFX Account](https://forum.cfx.re/u/elzapu02). 
 - 📥 Contact: ! Zapu#2002.
 
 
