@@ -1,8 +1,8 @@
-[![Header](https://i.imgur.com/e3bZzqv.png)](https://www.marbellarp.es/)
+[![Header](https://i.imgur.com/rvDAa0a.png)](https://www.marbellarp.es/)
 
 ### 💣 About me
 
-- 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp). 
+- 🌴 Founder of [MarbellaRP](https://discord.gg/marbellarp) & MarbellaNetwork. 
 - 💻 LUA Programmer.
 - 📊 17 years old, learning.
 - 🌍 My [CFX Account](https://forum.cfx.re/u/elzapu02). 
