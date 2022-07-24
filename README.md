@@ -6,7 +6,7 @@
 - 💻 LUA Programmer.
 - 📊 17 years old, learning.
 - 🌍 My [CFX Account](https://forum.cfx.re/u/elzapu02). 
-- 📥 Contact: ! Zapu#2002 / find me on discord.gg/marbellarp
+- 📥 Contact: ! Zapu#2002 / find me on my [my Discord's Server](https://discord.gg/marbellarp).
 
 
 ### ⚡ Languages
